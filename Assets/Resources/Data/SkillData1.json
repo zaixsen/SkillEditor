@@ -1,0 +1,24 @@
+{
+  "floderName": 0,
+  "id": 0,
+  "name": "撼地拳",
+  "description": "猛捶大地",
+  "iconPath": null,
+  "modelPath": "Prefab/Skill1",
+  "audioId": 1,
+  "animationId": 1,
+  "triggerType": 0,
+  "skillRange": 0,
+  "buffs": [
+    {
+      "id": 1,
+      "name": "1",
+      "description": "1",
+      "modelPath": "Prefab/FX_AbyssLord_Skill20107",
+      "damage": 1.0,
+      "recaver": 1.0,
+      "triggerTime": 1.0,
+      "Add": 1.0
+    }
+  ]
+}

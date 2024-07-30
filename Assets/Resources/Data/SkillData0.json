@@ -1,0 +1,34 @@
+{
+  "floderName": 0,
+  "id": 1,
+  "name": "邱琦雯",
+  "description": "请问委屈恶气",
+  "iconPath": null,
+  "modelPath": "Model/Teddy",
+  "audioId": 1,
+  "animationId": 0,
+  "triggerType": 1,
+  "skillRange": 1,
+  "buffs": [
+    {
+      "id": 0,
+      "name": "123",
+      "description": "222",
+      "modelPath": "Prefab/FX_AbyssLord_Skill20108",
+      "damage": 2.0,
+      "recaver": 34.0,
+      "triggerTime": 0.5,
+      "Add": 4.0
+    },
+    {
+      "id": 0,
+      "name": "123",
+      "description": "222",
+      "modelPath": "Prefab/FX_AbyssLord_Skill20108",
+      "damage": 2.0,
+      "recaver": 34.0,
+      "triggerTime": 0.5,
+      "Add": 4.0
+    }
+  ]
+}
